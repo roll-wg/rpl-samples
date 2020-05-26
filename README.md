@@ -1,4 +1,4 @@
-# rpl-samples
+# RPL-samples
 
 This is a repo for collections of packets samples (pcaps) for use in compression and other analysis
 
