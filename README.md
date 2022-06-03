@@ -1,6 +1,8 @@
 # RPL-samples
 
-This is a repo for collections of packets samples (pcaps) for use in compression and other analysis
+This is a repo for collections of packets samples (pcaps) for use in compression and other analysis.
+
+[Packet Capture List](packet-captures.md)
 
 This repository relates to activities in the Internet Engineering Task Force(IETF). All material in this repository is considered Contributions to the IETF Standards Process, as defined in the intellectual property policies of IETF currently designated as BCP 78 (https://www.rfc-editor.org/info/bcp78), BCP 79 (https://www.rfc-editor.org/info/bcp79) and the IETF Trust Legal Provisions (TLP) Relating to IETF Documents (http://trustee.ietf.org/trust-legal-provisions.html).
 
